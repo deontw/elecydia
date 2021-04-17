@@ -4,15 +4,15 @@ Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 6816
 Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=11.0)
-Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), lzma
+Depends: apt (< 2.0.0), bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), lzma
 Conflicts: bigboss, com.sosiphone.addcydia, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Provides: cydia-lproj
 Filename: ./debs/cydia-dark_1.1.36-1_iphoneos-arm.deb
-Size: 1236720
-MD5sum: 48ebf738acb72e04c40870550798ba72
-SHA1: c8b565a3b107b2d97aa51ee19d0c6962fc30b9fe
-SHA256: 500b8d24647ef7730a2577e3b509638bee83b1924b3e60772445ad49e9550e87
+Size: 1236412
+MD5sum: 8ff9d17cd3ae208272914ba43686b155
+SHA1: 084eda5480b8640fd8f1f47a9019b6efe076a74f
+SHA256: f5f6a92ece24e9af7320f4420b3ea13e91c8d70c47cc865f01a723fc18092ceb
 Section: Packaging
 Priority: important
 Description: graphical iPhone front-end for APT
