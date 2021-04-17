@@ -1,0 +1,9 @@
+Origin: Cydia for Electra
+Label: Deon
+Suite: stable
+Version: 1.0
+Codename: Deon
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia for Electra
+
