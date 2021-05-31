@@ -9,6 +9,6 @@ Cydia for Chimera Bootstrap
 
 This is only for Electra devices
 
-DO NOT use it on Procursus/Elucubratus Bootstrap
+DO NOT use it on Procursus/Elucubratus Bootstrap!
 
 https://deontw.github.io/elecydia/
